@@ -1,0 +1,2942 @@
+[
+  {
+    "name": "Afganistan",
+    "country_code": "93",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Afrika Selatan",
+    "country_code": "27",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Afrika Tengah",
+    "country_code": "236",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Albania",
+    "country_code": "355",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Algeria",
+    "country_code": "213",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Amerika Serikat",
+    "country_code": "1",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Andora",
+    "country_code": "376",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Angola",
+    "country_code": "244",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "country_code": "1-268",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Arab Saudi",
+    "country_code": "966",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Argentina",
+    "country_code": 54,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Armenia",
+    "country_code": "374",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Australia",
+    "country_code": "61",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bahama",
+    "country_code": 1,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Austria",
+    "country_code": "43",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Azerbaijan",
+    "country_code": "944",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bahama",
+    "country_code": "1-242",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bahrain",
+    "country_code": "973",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bangladesh",
+    "country_code": "880",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Barbados",
+    "country_code": "1-246",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Belanda",
+    "country_code": "31",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Belarus",
+    "country_code": "375",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Belgia",
+    "country_code": "32",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Belize",
+    "country_code": "501",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Benin",
+    "country_code": "299",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bhutan",
+    "country_code": "975",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bolivia",
+    "country_code": "591",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bosnia & Herzegovina",
+    "country_code": "387",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Botswana",
+    "country_code": "267",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Brasil",
+    "country_code": "55",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Britania Raya (Inggris)",
+    "country_code": "44",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Brunei Darussalam",
+    "country_code": "673",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Bulgaria",
+    "country_code": "359",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Burkina Faso",
+    "country_code": "226",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Burundi",
+    "country_code": "257",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Republik Ceko",
+    "country_code": "420",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Chad",
+    "country_code": "235",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Chili",
+    "country_code": "56",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "China",
+    "country_code": "82",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Denmark",
+    "country_code": "45",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Djibouti",
+    "country_code": "253",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Domikia",
+    "country_code": "1-767",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Ekuador",
+    "country_code": "593",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "El Salvador",
+    "country_code": "503",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Eritrea",
+    "country_code": "291",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Estonia",
+    "country_code": "372",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Ethiopia",
+    "country_code": "251",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Fiji",
+    "country_code": "679",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Filipina",
+    "country_code": "63",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Finlandia",
+    "country_code": "358",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Gabon",
+    "country_code": "241",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Gambia",
+    "country_code": "220",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Georgia",
+    "country_code": "995",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Ghana",
+    "country_code": "233",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Grenada",
+    "country_code": "1-473",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Guatemala",
+    "country_code": "502",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Guinea",
+    "country_code": "224",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Guinea Bissau",
+    "country_code": "245",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Guinea Khatulistiwa",
+    "country_code": "240",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Guyana",
+    "country_code": "592",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Haiti",
+    "country_code": "509",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Honduras",
+    "country_code": "504",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Hongaria",
+    "country_code": "36",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Hongkong",
+    "country_code": "852",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "India",
+    "country_code": "91",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Indonesia",
+    "country_code": "62",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Irak",
+    "country_code": "964",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Iran",
+    "country_code": "98",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Irlandia",
+    "country_code": "353",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Islandia",
+    "country_code": "354",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Israel",
+    "country_code": "972",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Italia",
+    "country_code": "39",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Jamaika",
+    "country_code": "1-876",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Jepang",
+    "country_code": "81",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Jerman",
+    "country_code": "49",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Jordan",
+    "country_code": "962",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kamboja",
+    "country_code": "855",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kamerun",
+    "country_code": "237",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kanada",
+    "country_code": "1",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kazakhstan",
+    "country_code": "7",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kenya",
+    "country_code": "254",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kirgizstan",
+    "country_code": "996",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kiribati",
+    "country_code": "686",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kolombia",
+    "country_code": "57",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Komoro",
+    "country_code": "269",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Republik Kongo",
+    "country_code": "243",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Korea Selatan",
+    "country_code": "82",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Korea Utara",
+    "country_code": "850",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kosta Rika",
+    "country_code": "506",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kroasia",
+    "country_code": "385",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kuba",
+    "country_code": "53",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Kuwait",
+    "country_code": "965",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Laos",
+    "country_code": "856",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Latvia",
+    "country_code": "371",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Lebanon",
+    "country_code": "961",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Lesotho",
+    "country_code": "266",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Liberia",
+    "country_code": "231",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Libya",
+    "country_code": "218",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Liechtenstein",
+    "country_code": "423",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Lituania",
+    "country_code": "370",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Luksemburg",
+    "country_code": "352",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Madagaskar",
+    "country_code": "261",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Makao",
+    "country_code": "853",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Makedonia",
+    "country_code": "389",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Maladewa",
+    "country_code": "960",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Malawi",
+    "country_code": "265",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Malaysia",
+    "country_code": "60",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mali",
+    "country_code": "223",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Malta",
+    "country_code": "356",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Maroko",
+    "country_code": "212",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Marshall (Kep.)",
+    "country_code": "692",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mauritania",
+    "country_code": "222",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mauritius",
+    "country_code": "230",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Meksiko",
+    "country_code": "52",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mesir",
+    "country_code": "20",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mikronesia (Kep.)",
+    "country_code": "691",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Moldova",
+    "country_code": "373",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Monako",
+    "country_code": "377",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mongolia",
+    "country_code": "976",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Montenegro",
+    "country_code": "382",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Mozambik",
+    "country_code": "258",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Myanmar",
+    "country_code": "95",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Namibia",
+    "country_code": "264",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Nauru",
+    "country_code": "674",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Nepal",
+    "country_code": "977",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Niger",
+    "country_code": "227",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Nigeria",
+    "country_code": "234",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Nikaragua",
+    "country_code": "505",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Norwegia",
+    "country_code": "47",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Oman",
+    "country_code": "968",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Pakistan",
+    "country_code": "92",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Palau",
+    "country_code": "680",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Panama",
+    "country_code": "507",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Pantai Gading",
+    "country_code": "225",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Papua Nugini",
+    "country_code": "675",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Paraguay",
+    "country_code": "595",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Francis",
+    "country_code": "33",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Peru",
+    "country_code": "51",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Polandia",
+    "country_code": "48",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Portugal",
+    "country_code": "351",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Qatar",
+    "country_code": "974",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Rep. Dem. Kongo",
+    "country_code": "242",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Republik Dominika",
+    "country_code": "1-809; 1-829",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Rumania",
+    "country_code": "40",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Rusia",
+    "country_code": "7",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Rwanda",
+    "country_code": "250",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "country_code": "1-869",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Saint Lucia",
+    "country_code": "1-758",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Saint Vincent & the Grenadines",
+    "country_code": "1-784",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Samoa",
+    "country_code": "685",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "San Marino",
+    "country_code": "378",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Sao Tome & Principe",
+    "country_code": "239",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Selandia Baru",
+    "country_code": "64",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Senegal",
+    "country_code": "221",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Serbia",
+    "country_code": "381",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Seychelles",
+    "country_code": "248",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Sierra Leone",
+    "country_code": "232",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Singapura",
+    "country_code": "65",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Siprus",
+    "country_code": "357",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Slovenia",
+    "country_code": "386",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Slowakia",
+    "country_code": "421",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Solomon (Kep.)",
+    "country_code": "677",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Somalia",
+    "country_code": "252",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Spanyol",
+    "country_code": "34",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Sri Lanka",
+    "country_code": "94",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Sudan",
+    "country_code": "249",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Sudan Selatan",
+    "country_code": "211",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Suriah",
+    "country_code": "963",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Suriname",
+    "country_code": "597",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Swaziland",
+    "country_code": "268",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Swedia",
+    "country_code": "46",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Swiss",
+    "country_code": "41",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tajikistan",
+    "country_code": "992",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tanjung Verde",
+    "country_code": "238",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tanzania",
+    "country_code": "255",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Taiwan",
+    "country_code": "288",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Thailand",
+    "country_code": "66",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Timor Leste",
+    "country_code": "670",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Togo",
+    "country_code": "228",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tonga",
+    "country_code": "676",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Trinidad & Tobago",
+    "country_code": "1-868",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tunisia",
+    "country_code": "218",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Turki",
+    "country_code": "90",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Turkmenistan",
+    "country_code": "993",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Tuvalu",
+    "country_code": "688",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Uganda",
+    "country_code": "256",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Ukraina",
+    "country_code": "380",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Uni Emirat Arab",
+    "country_code": "971",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Turkmenistan",
+    "country_code": "993",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Uruguay",
+    "country_code": "598",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Vanuatu",
+    "country_code": "678",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Venezuela",
+    "country_code": "58",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Vietnam",
+    "country_code": "84",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Yaman",
+    "country_code": "967",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Yunani",
+    "country_code": "30",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "name": "Zambia",
+    "country_code": "260",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1658466831825"
+      }
+    },
+    "__v": 0
+  }
+]
